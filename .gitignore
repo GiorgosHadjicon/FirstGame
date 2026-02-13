@@ -1,0 +1,15 @@
+# Java compiled files
+*.class
+
+# Build folders
+bin/
+out/
+
+# VS Code
+.vscode/
+
+# IntelliJ / IDE junk (safe even if unused)
+.idea/
+
+# macOS
+.DS_Store
